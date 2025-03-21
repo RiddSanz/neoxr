@@ -1,4 +1,3 @@
-if (process.argv.includes('--server')) require('./server')
 require('dotenv').config(), require('rootpath')(), console.clear()
 const { spawn: spawn } = require('child_process'), path = require('path'), CFonts = require('cfonts'), chalk = require('chalk')
 

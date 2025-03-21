@@ -3,7 +3,7 @@
 > An implementation of [@neoxr/wb](https://www.npmjs.com/package/@neoxr/wb) which has been optimized to be lightweigth.  
 
 > [!CAUTION]
-> [@neoxr/wb](https://www.npmjs.com/package/@neoxr/wb) >= **8.x.x** version has used **TypeScript** and to use it there are slight changes
+> [@neoxr/wb](https://www.npmjs.com/package/@neoxr/wb) >= **5.x** version has used **TypeScript** and to use it there are slight changes
 
 ```Javascript
 // From this : ---
