@@ -1,9 +1,9 @@
 {
-   "owner": "6285887776722",
-   "owner_name": "Wildan Izzudin",
+   "owner": "6288991608239",
+   "owner_name": "Ridzy Valerie",
    "database": "data",
    "limit": 15,
-   "ram_limit": "900mb",
+   "ram_limit": "1000mb",
    "max_upload": 50,
    "max_upload_free": 25,
    "cooldown": 1,
@@ -16,7 +16,7 @@
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 6282258694977
+      "number": 6289509945176
    },
    "replit_url": ""
 }
