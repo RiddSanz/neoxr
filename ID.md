@@ -14,8 +14,8 @@ Terdapat 2 file konfigurasi yaitu ```.env``` dan ```config.json```, sesuaikan te
 
 ```Javascript
 {
-   "owner": "6285887776722",
-   "owner_name": "Wildan Izzudin"
+   "owner": "6289612177385",
+   "owner_name": "Pardios Ephemeral"
    "database": "data",
    "limit": 25,
    "ram_usage": 900000000, // <-- 900mb in bytes
